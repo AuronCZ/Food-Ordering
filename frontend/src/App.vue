@@ -10,7 +10,7 @@
   </template>
   
   <script>
-  import AuthenticatedLayout from './components/AuthenticatedLayout.vue';
+  import AuthenticatedLayout from './AuthenticatedLayout.vue';
   import { mapActions, mapState } from 'vuex';
   export default {
     name: 'App',
